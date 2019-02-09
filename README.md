@@ -26,8 +26,8 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 # Month 1 - Data Analysis
 
 ## ~~Week 1 - Learn Python~~
-- ~~[ ] EdX https://www.edx.org/course/introduction-python-data-science-2~~
-- ~~[ ] Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU~~
+~~- [ ] EdX https://www.edx.org/course/introduction-python-data-science-2~~
+~~- [ ] Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU~~
 
 ## Week 2 - Statistics & Probability
 - [ ] KhanAcademy https://www.khanacademy.org/math/statistics-probability
@@ -49,7 +49,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - [ ] [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Week 1-2 - ~~Algorithms &~~ Machine Learning
-- ~~[ ] Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/~~
+~~- [ ] Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/~~
 - [x] Google https://developers.google.com/machine-learning/crash-course/
 
 ## Week 3 - Deep Learning
@@ -62,7 +62,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 # Month 3 - Real-World Tools
 
 ## Week 1 Databases (~~SQL +~~ NoSQL)
-- ~~[ ] Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197~~
+~~- [ ] Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197~~
 - [ ] EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
 
 ## Week 2 Hadoop & Map Reduce + Spark
