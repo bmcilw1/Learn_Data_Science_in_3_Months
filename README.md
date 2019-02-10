@@ -2,7 +2,7 @@
 
 ## Course Details
 
-This is an edit of the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. This adaptation is targeted for a graduated Software Engineer wanting to learn data science. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it. 
+This is an edit of the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. This adaptation is targeted for a graduated Software Engineer wanting to learn data science. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it.
 
 ### Find a study buddy
 Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.com) channel to find one. 
@@ -14,7 +14,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ### Course Length
 - 12 Weeks
-- ~~2-3~~ 1-2 Hours of Study per Day
+- 2-3 Hours of Study per Day
 - 1-4 [Pramp](https://www.pramp.com/) interviews a week, starting in month 2
 
 ### Tools Used
@@ -27,9 +27,9 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Month 1 - Data Analysis
 
-### ~~Week 1 - Learn Python~~
-~~- [ ] EdX https://www.edx.org/course/introduction-python-data-science-2~~
-~~- [ ] Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU~~
+### Week 1 - Learn Python
+- [x] EdX https://www.edx.org/course/introduction-python-data-science-2
+- [x] Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
 ### Week 2 - Statistics & Probability
 - [ ] KhanAcademy https://www.khanacademy.org/math/statistics-probability
@@ -53,8 +53,8 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - [ ] [Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 - [ ] [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
-### Week 1-2 - ~~Algorithms &~~ Machine Learning
-~~- [ ] Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/~~
+### Week 1-2 - Algorithms & Machine Learning
+- [x] Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
 - [x] Google https://developers.google.com/machine-learning/crash-course/
 
 ### Week 3 - Deep Learning
@@ -70,7 +70,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - [ ] Do 2-4 interviews a week. Focus on Applied Data Science, Data Structures and Algorithims, and do a few of the Behavorial type.
 
 ### Week 1 Databases (~~SQL +~~ NoSQL)
-~~- [ ] Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197~~
+- [x] Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
 - [ ] EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
 
 ### Week 2 Hadoop & Map Reduce + Spark
