@@ -45,7 +45,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ## Month 2 - Machine Learning
 
 ### Begin [Pramp](https://www.pramp.com/) Interviews
-- [ ] Do 1-2 interviews a week. Focus on Applied Data Science, Data Structures and Algorithim.
+- [ ] Do 1-2 interviews a week. Focus on Applied Data Science and Data Structures and Algorithim sections.
 
 ### Math of Machine Learning Cheat Sheets
 - [ ] [Statistics](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
