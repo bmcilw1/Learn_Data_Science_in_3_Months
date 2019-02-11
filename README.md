@@ -69,7 +69,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ### More [Pramp](https://www.pramp.com/) Interviews
 - [ ] Do 2-4 interviews a week. Focus on Applied Data Science, Data Structures and Algorithims, and do a few of the Behavorial type.
 
-### Week 1 Databases (~~SQL +~~ NoSQL)
+### Week 1 Databases (SQL + NoSQL)
 - [x] Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
 - [ ] EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
 
